@@ -1,0 +1,41 @@
+{
+  "Facebook": {
+    "title": "Iniciar sesión en Facebook",
+    "mensaje": {
+      "youMustLogin": "Primero debe iniciar sesión.",
+      "o o"
+    },
+    "entradas": {
+      "email": "Dirección de correo electrónico o número de móvil",
+      "phone": "Número de móvil o dirección de correo electrónico",
+      "contraseña": "Contraseña"
+    },
+    "botones": {
+      "login": "Iniciar sesión",
+      "signUp": "Crear cuenta nueva",
+      "continuar": "Continuar"
+    },
+    "Enlaces": {
+      "ForgotPassword": "¿Olvidó su contraseña?",
+      "ForgotEmail": "¿Cuenta olvidada?",
+      "keepMeSignedIn": "Mantenerme conectado"
+    }
+  },
+  "fbColor": {
+    "title": "Cómo cambiar el color de Facebook"
+  },
+
+  "pasos": {
+    "login": "Inicie sesión en su cuenta",
+    "choosePost": "Elige tu publicación",
+    "chooseColor": "Elige el color",
+    "chooseReaction": "Elija los tipos de reacciones que desee",
+    "confirm": "Confirma tu cuenta",
+    "felicitar": "¡Felicidades !, tienes"
+  },
+
+  "estática": {
+    "año": "2021"
+  }
+
+}
